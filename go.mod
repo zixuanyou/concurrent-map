@@ -1,3 +1,3 @@
-module github.com/zixuanyou/concurrent-map/v2
+module github.com/zixuanyou/concurrent-map
 
 go 1.18
